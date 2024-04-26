@@ -6,6 +6,8 @@
 
 Inspired by [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) and [SAWARATSUKI/ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) and other similar projects.
 
+Requests for logos are not accepted at this time :(.
+
 ## Acknowledgements
 
 - Illustrator and Photoshop
